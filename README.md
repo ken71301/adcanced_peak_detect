@@ -1,4 +1,4 @@
-# adcanced_peak_detect
+# advanced_peak_detect
 
 改良peak detect演算法(於資策會)
 
